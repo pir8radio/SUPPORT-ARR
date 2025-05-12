@@ -5,5 +5,5 @@
 Online Discord community to support users of various media servers and their plugins/apps.
 
 # DEVELOPERS
-Submit an "Issue" here with your ARR/APP that you would like to be added to Support-Arr using the same GitHub account that owns the ARR/APP. Since you will receive management rights for your channel on the Support-Arr Discord, I need to verify you are the actual owner. 
+Submit an "Issue" here with your ARR/APP that you would like to be added to Support-Arr using the same GitHub account that owns the ARR/APP. Since you will receive management rights for your channel on the Support-Arr Discord, I need to verify you are the actual owner of your ARR/APP. 
 
